@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Simon Godefroid simon.godefroid@gmail.com
 
 # THANKS
 
